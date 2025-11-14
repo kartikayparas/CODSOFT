@@ -4,7 +4,7 @@ ops = {
     "+": operator.add,
     "-": operator.sub,
     "*": operator.mul,
-    "/": operator.div,
+    "/": operator.truediv,
     "^": operator.pow
 }
 
